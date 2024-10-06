@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Data Analytics
 - 🌱 I’m currently learning Data Science and Data Analytics
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me @GentR0yal (twitter)
+- 📫 How to reach me @Ridwan__Yusuf (twitter)
 
 <!---
 GentRoyal/GentRoyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
