@@ -1,65 +1,52 @@
-<h1 align="center">Hi, I'm Ridwan Yusuf 👋</h1>
+# Hi, I'm Ridwan Yusuf 👋
 
 <p align="center">
-  <i>Data Scientist | Python, SQL, ML, Power BI | Building Data-Driven Solutions</i>
+  <i>Data Scientist & AI/ML Engineer | Scaling AI Solutions from Prototype to Production</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA%20SCIENCE-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20FOR%20HEALTH-green?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/FINANCE%20ANALYTICS-purple?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-red?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/END--TO--END%20ML-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20SYSTEMS-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOPS%20%26%20DEPLOYMENT-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA%20ENGINEERING-red?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 Who Am I?
+## About Me
 
-I'm a data scientist with a strong background in computer science and hands-on experience applying data to solve real-world problems—especially in health and finance.
+Data Scientist & AI/ML Engineer building production-ready ML systems with end-to-end expertise: data pipelines, model development, deployment, and monitoring. I work across finance, healthcare, fraud detection, and NLP using FastAPI, Docker, MLflow, and cloud infrastructure.
 
-Over the years, I’ve contributed to impactful dashboards, predictive models, and research-inspired tech tools.
-
-**My current goals:**
-- Build intelligent ML models for health and financial applications  
-- Translate data insights into strategic decision-making  
-- Work on open-ended research and collaborative tech projects  
+Currently mentoring at ALX and available for ML infrastructure & consulting projects.
 
 ---
 
 ## 🚀 Current Projects
+- **[IleraPulse](#)** – *AI-powered public health platform that delivers personalized chronic disease management via SMS/WhatsApp while predicting disease outbreaks 1-2 weeks early using real-time symptom surveillance and spatiotemporal ML models—transforming reactive health systems into proactive ones for resource-constrained settings.*
 
-- [**CareWomb**](https://carewomb.streamlit.app/) – *Streamlit app helping expectant mothers track symptoms and gain insights*
-- [**PythonPackages**](https://github.com/GentRoyal/mypackage) – *Creating custom Python packages for automation and reuse*
-- [**Stock ETL Project**](https://github.com/GentRoyal/financial-etl-pipeline) - *- Building and deploying machine learning pipelines and APIs for Stock Data.*
-
+[View full portfolio →](https://gentroyal.github.io/portfolio/)
 ---
 
 ## 🧰 Tech Stack
 
-**Languages & Tools:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+**MLOps & Infrastructure:** FastAPI | MLflow | Docker | Airflow | CI/CD | AWS | GCP
 
-</p>
+**AI/ML:** Scikit-learn | OpenAI | LangChain | Groq | RAG | NLP | Computer Vision
+
+**Data Engineering:** PostgreSQL | ETL | Pinecone | Geospatial (SHP/TIFF)
+
+**Tools:** Python | Pandas | NumPy | Power BI | Git | Linux
 
 ---
 
-## 🤝 Let’s Collaborate
+## 📬 Connect
 
-I’m open to:
-- 🤝 Research or internship roles in health + finance analytics
-- 🧠 Collaborative projects on data science, ML, and real-world problem-solving
-- 🎤 Speaking, mentoring, or writing about applied data science and career growth
-
-📬 Reach me: **[yosufridwan@gmail.com](mailto:yosufridwan@gmail.com)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/yusufridwan)** | **[Twitter](https://twitter.com/RidwanYusuf_)**
+**Email:** [yosufridwan@gmail.com](mailto:yosufridwan@gmail.com)
+**LinkedIn:** [linkedin.com/in/yusufridwan](https://www.linkedin.com/in/yusufridwan)
+**Phone:** +234-904-484-3031
 
 ---
 
-> *“I’m here to build with data—because insight is only valuable when it leads to impact.”*
+> *"I'm here to build with data—because insight is only valuable when it leads to impact."*
+
+**Built with ❤️ | Data Science | Machine Learning | MLOps**
