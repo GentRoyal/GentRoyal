@@ -17,14 +17,13 @@
 
 Data Scientist & AI/ML Engineer building production-ready ML systems with end-to-end expertise: data pipelines, model development, deployment, and monitoring. I work across finance, healthcare, fraud detection, and NLP using FastAPI, Docker, MLflow, and cloud infrastructure.
 
-Currently mentoring at ALX and available for ML infrastructure & consulting projects.
 
 ---
 
 ## 🚀 Current Projects
-- **[IleraPulse](#)** – *AI-powered public health platform that delivers personalized chronic disease management via SMS/WhatsApp while predicting disease outbreaks 1-2 weeks early using real-time symptom surveillance and spatiotemporal ML models—transforming reactive health systems into proactive ones for resource-constrained settings.*
+- **[Nigeria Forest Monitor](https://github.com/GentRoyal/nigeria-forest-monitor)** – *SAR-based forest anomaly detection for counter-terrorism and security monitoring across the Old Oyo National Park corridor, Southwest Nigeria.*
 
-[View full portfolio →](https://gentroyal.github.io/portfolio/)
+[View full portfolio →](https://ridwan-yusuf.vercel.app/)
 ---
 
 ## 🧰 Tech Stack
